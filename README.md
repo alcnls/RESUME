@@ -26,6 +26,6 @@ Github: https://github.com/alcnls
 * 기간: 2017.09 ~ 2017.12
 * 사용기술: Java,Retrofit,OkHttp,Rxjava,Lambda ..
 
-<img src=“images/whatvita_01.jpeg" width="160"/> <img src="images/whatvita_02.jpeg" width="160"/>
+<img src="images/whatvita_01.jpeg" width="160"/> <img src="images/whatvita_02.jpeg" width="160"/>
 <img src="images/whatvita_03.jpeg" width="160"/> <img src="images/whatvita_04.jpeg" width="160"/>
 <img src="images/whatvita_05.jpeg" width="160"/>
