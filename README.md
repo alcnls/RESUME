@@ -58,5 +58,5 @@ Github: https://github.com/alcnls
 * 출력되는 데이터는 제목,영어제목,제작년도,감독,평점,영화이미지 입니다.
 * 검색으로 출력된 데이터를 클릭하면 WebView로 클릭한 영화의 자세한 정보페이지로 이동합니다.
 
-
+<img src="images/naver_search_01.jpeg" width="160"/> <img src="images/naver_search_02.jpeg" width="160"/>
 
