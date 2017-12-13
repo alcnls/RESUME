@@ -45,5 +45,4 @@ Github: https://github.com/alcnls
 * SharedPreferences사용으로 개인 설정 유지 가능.
 
 
-<img src="images/candlelight_01.jpeg" width="160"/>
-<img src="images/candlelight_02.jpeg" width="160"/>
+<img src="images/candlelight_01.jpeg" width="160"/> <img src="images/candlelight_02.jpeg" width="160"/>
