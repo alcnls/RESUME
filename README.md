@@ -53,7 +53,7 @@ Github: https://github.com/alcnls
 
 네이버 검색 API를 이용한 영화검색
 
-* 사용기술: Butterknife,Retrofit,Okhttp,Glide,Recyclerview ..
+* 사용기술: Java,Butterknife,Retrofit,Okhttp,Glide,Recyclerview ..
 * Edittext 에 영화제목을 검색하면 검색한 영화가 Recyclerview에 출력됩니다.
 * 출력되는 데이터는 제목,영어제목,제작년도,감독,평점,영화이미지 입니다.
 * 검색으로 출력된 데이터를 클릭하면 WebView로 클릭한 영화의 자세한 정보페이지로 이동합니다.
