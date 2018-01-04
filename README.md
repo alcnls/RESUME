@@ -37,6 +37,8 @@ Github: https://github.com/alcnls
 
 집회용 촛불 앱
 
+
+* Play스토어 등록.
 * 상단 TextView는 내용과 위치(상단,하단) 설정 가능합니다.
 * Animation-list를 활용 , 20장의 촛불 이미지를 사용하여 타오르는 촛불을 구현.
 * 촛불 세기 및 촛불이미지 변경 가능합니다.
