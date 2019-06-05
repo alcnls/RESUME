@@ -38,6 +38,7 @@
 * 간단한 촛불 앱
 	* 구글 스토어에 등록 경험 하기 위해 제작
 
+사용기술: Java,Butterknife, Animation-list ..
 <!-- 앱 설명 -->
 
 	상단 텍스트는 내용과 위치(상단,하단) 설정 가능합니다.
@@ -55,7 +56,7 @@
 * 네이버 검색 API를 이용한 영화검색
 	* 네크워크을 이해하기 위해 제작
 
-사용기술: Java,Butterknife,Retrofit,Okhttp,Glide ..
+사용기술: Java, Butterknife, Retrofit, Okhttp, Glide ..
 <!-- 앱 설명 -->
 	
 	검색창에 영화제목을 검색하면 검색한 영화가 리스트형식으로 출력됩니다.
