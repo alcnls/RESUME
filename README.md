@@ -81,8 +81,5 @@
 	등록한 각 사진에 "나의 한마디" 작성.
 
 
-<img src="images/Screenshot_20190704-210747.png" width="160"/> 
-<img src="images/Screenshot_20190704-210823.png" width="160"/> 
-<img src="images/Screenshot_20190704-210839.png" width="160"/> 
-<img src="images/Screenshot_20190704-210856.png" width="160"/> 
+<img src="images/Screenshot_20190704-210747.png" width="160"/> <img src="images/Screenshot_20190704-210823.png" width="160"/> <img src="images/Screenshot_20190704-210839.png" width="160"/> <img src="images/Screenshot_20190704-210856.png" width="160"/> 
 
