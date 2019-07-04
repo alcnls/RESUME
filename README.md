@@ -66,3 +66,20 @@
 
 <img src="images/naver_search_01.jpeg" width="160"/> <img src="images/naver_search_02.jpeg" width="160"/>
 
+
+
+### 3.Photo Diary 앱 
+
+* 간단한 그림(사진)일기 앱
+	* 이미지 관리 , 레이아웃 학습 위해 제작
+
+* 사용기술: Java, Glide , MultipleImageSelect , tedpermission , jsoup..
+<!-- 앱 설명 -->
+	
+	해당 지역 입력 후 폴더 생성하면 폴더 사진은 랜덤으로 임시 이미지가 적용.
+	폴더 생성 후 사진 등록하면 폴더 이미지가 등록한 마지막 사진으로 적용.
+	등록한 각 사진에 "나의 한마디" 작성.
+
+
+<img src="images/naver_search_01.jpeg" width="160"/> <img src="images/naver_search_02.jpeg" width="160"/>
+
