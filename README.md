@@ -81,5 +81,5 @@
 	등록한 각 사진에 "나의 한마디" 작성.
 
 
-<img src="images/naver_search_01.jpeg" width="160"/> <img src="images/naver_search_02.jpeg" width="160"/> 
+<img src="images/Screenshot_20190704-210747.png" width="160"/> <img src="images/naver_search_02.jpeg" width="160"/> 
 
