@@ -26,12 +26,13 @@
 * 자신의 몸 상태를 입력하면 거기에 맞는 약을 추천해주고, 1:1 상담과 약 구매를 도와주는 앱
 * 사용기술: Java,Retrofit,OkHttp,Rxjava ..
 
-<img src="images/whatvita_1.jpeg" width="160"/> <img src="images/whatvita_02.jpeg" width="160"/>
+<img src="images/whatvita_1.png" width="160"/> <img src="images/whatvita_02.jpeg" width="160"/>
 <img src="images/whatvita_03.jpeg" width="160"/> <img src="images/whatvita_04.jpeg" width="160"/>
 <img src="images/whatvita_05.jpeg" width="160"/>
 
 
 # 기타 프로젝트
+
 
 
 
