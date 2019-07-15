@@ -26,28 +26,29 @@
 * 자신의 몸 상태를 입력하면 거기에 맞는 약을 추천해주고, 1:1 상담과 약 구매를 도와주는 앱
 * 사용기술: Java,Retrofit,OkHttp,Rxjava ..
 
-<img src="images/whatvita_01.jpeg" width="160"/> <img src="images/whatvita_02.jpeg" width="160"/>
+<img src="images/whatvita_1.jpeg" width="160"/> <img src="images/whatvita_02.jpeg" width="160"/>
 <img src="images/whatvita_03.jpeg" width="160"/> <img src="images/whatvita_04.jpeg" width="160"/>
 <img src="images/whatvita_05.jpeg" width="160"/>
 
 
 # 기타 프로젝트
 
-### 1.평화촛불
 
-* 간단한 촛불 앱
-	* 구글 스토어에 등록 경험 하기 위해 제작
 
-* 사용기술: Java,Butterknife, Animation-list ..
+### 1.Photo Diary 앱 
+
+* 간단한 그림(사진)일기 앱
+	* 이미지 관리 , 레이아웃 학습 위해 제작
+
+* 사용기술: Java, Glide , MultipleImageSelect , tedpermission , jsoup..
 <!-- 앱 설명 -->
+	
+	해당 지역 입력 후 폴더 생성하면 폴더 사진은 랜덤으로 임시 이미지가 적용.
+	폴더 생성 후 사진 등록하면 폴더 이미지가 등록한 마지막 사진으로 적용.
+	등록한 각 사진에 "나의 한마디" 작성.
 
-	상단 텍스트는 내용과 위치(상단,하단) 설정 가능합니다.
-	20장의 촛불 이미지를 사용하여 타오르는 촛불을 구현.
-	촛불 세기 및 촛불이미지 변경 가능합니다.
-	종이컵 이미지 중앙 구호 설정 기능이 있습니다.
 
-
-<img src="images/candlelight_01.jpeg" width="160"/> <img src="images/candlelight_02.jpeg" width="160"/>
+<img src="images/Screenshot_20190704-210747.png" width="160"/> <img src="images/Screenshot_20190704-210823.png" width="160"/> <img src="images/Screenshot_20190704-210839.png" width="160"/> <img src="images/Screenshot_20190704-210856.png" width="160"/> 
 
 
 
@@ -68,18 +69,27 @@
 
 
 
-### 3.Photo Diary 앱 
+### 3.평화촛불
 
-* 간단한 그림(사진)일기 앱
-	* 이미지 관리 , 레이아웃 학습 위해 제작
+* 간단한 촛불 앱
+	* 구글 스토어에 등록 경험 하기 위해 제작
 
-* 사용기술: Java, Glide , MultipleImageSelect , tedpermission , jsoup..
+* 사용기술: Java,Butterknife, Animation-list ..
 <!-- 앱 설명 -->
-	
-	해당 지역 입력 후 폴더 생성하면 폴더 사진은 랜덤으로 임시 이미지가 적용.
-	폴더 생성 후 사진 등록하면 폴더 이미지가 등록한 마지막 사진으로 적용.
-	등록한 각 사진에 "나의 한마디" 작성.
+
+	상단 텍스트는 내용과 위치(상단,하단) 설정 가능합니다.
+	20장의 촛불 이미지를 사용하여 타오르는 촛불을 구현.
+	촛불 세기 및 촛불이미지 변경 가능합니다.
+	종이컵 이미지 중앙 구호 설정 기능이 있습니다.
 
 
-<img src="images/Screenshot_20190704-210747.png" width="160"/> <img src="images/Screenshot_20190704-210823.png" width="160"/> <img src="images/Screenshot_20190704-210839.png" width="160"/> <img src="images/Screenshot_20190704-210856.png" width="160"/> 
+<img src="images/candlelight_01.jpeg" width="160"/> <img src="images/candlelight_02.jpeg" width="160"/>
+
+
+
+
+
+
+
+
 
