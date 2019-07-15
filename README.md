@@ -26,9 +26,9 @@
 * 자신의 몸 상태를 입력하면 거기에 맞는 약을 추천해주고, 1:1 상담과 약 구매를 도와주는 앱
 * 사용기술: Java,Retrofit,OkHttp,Rxjava ..
 
-<img src="images/whatvita_1.png" width="160"/> <img src="images/whatvita_02.jpeg" width="160"/>
-<img src="images/whatvita_03.jpeg" width="160"/> <img src="images/whatvita_04.jpeg" width="160"/>
-<img src="images/whatvita_05.jpeg" width="160"/>
+<img src="images/whatvita_1.png" width="160"/> <img src="images/whatvita_02.png" width="160"/>
+<img src="images/whatvita_03.png" width="160"/> <img src="images/whatvita_04.png" width="160"/>
+<img src="images/whatvita_05.png" width="160"/>
 
 
 # 기타 프로젝트
@@ -66,7 +66,7 @@
 	검색으로 출력된 데이터를 클릭하면 WebView로 클릭한 영화의 자세한 정보페이지로 이동합니다.
 
 
-<img src="images/naver_search_01.jpeg" width="160"/> <img src="images/naver_search_02.jpeg" width="160"/>
+<img src="images/naver_search_01.png" width="160"/> <img src="images/naver_search_02.png" width="160"/>
 
 
 
@@ -84,7 +84,7 @@
 	종이컵 이미지 중앙 구호 설정 기능이 있습니다.
 
 
-<img src="images/candlelight_01.jpeg" width="160"/> <img src="images/candlelight_02.jpeg" width="160"/>
+<img src="images/candlelight_01.png" width="160"/> <img src="images/candlelight_02.png" width="160"/>
 
 
 
