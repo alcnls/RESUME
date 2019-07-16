@@ -3,7 +3,7 @@
 
 # 경력
 
-[왓비타](http://www.whatvita.kr)
+**[왓비타](http://www.whatvita.kr)**
 
 * 담당: 안드로이드 앱 개발
 * 기간: 2017.05 ~ 2017.12
@@ -18,13 +18,19 @@
 	-UI 프로토타입 개발
 
 
-쿠키크랙
+**쿠키크랙**
 
 * 담당: 안드로이드 앱 개발
 * 기간: 2015.09 ~ 2015.12
-- 안드로이드 프로토타입 앱 개발 및 기획 참여
+* 자신만의 레시피 공유 앱
+
+  - 신규버전 앱 UI 프로토타입 개발
+  - 기획참여,서비스설계,아이디어회의참여
+
+
 
 # 프로젝트
+
 
 **왓비타**
 
@@ -37,6 +43,18 @@
 <img src="images/whatvita_01.png" width="160"/> <img src="images/whatvita_02.png" width="160"/>
 <img src="images/whatvita_03.png" width="160"/> <img src="images/whatvita_04.png" width="160"/>
 <img src="images/whatvita_05.png" width="160"/>
+
+
+
+**쿠키크랙**
+
+* 소속: 쿠키크랙
+* 담당: 안드로이드 앱 개발
+* 기간: 2015.09 ~ 2015.12
+* 자신만의 레시피를 앱에 공유하여 여러 사용자들이 요리을 간단하게 만들 수 있게 도와주는 앱
+* 사용기술: Java,Retrofit,OkHttp,Rxjava ..
+
+
 
 
 # 기타 프로젝트
